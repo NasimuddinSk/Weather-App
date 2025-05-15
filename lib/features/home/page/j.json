@@ -1,0 +1,56 @@
+{
+  "cod": "200",
+  "message": 0,
+  "cnt": 40,
+  "list": [
+    {
+      "dt": 1746770400,
+      "main": {
+        "temp": 311.77,
+        "feels_like": 310.63,
+        "temp_min": 311.77,
+        "temp_max": 314.41,
+        "pressure": 1006,
+        "sea_level": 1006,
+        "grnd_level": 1002,
+        "humidity": 20,
+        "temp_kf": -2.64
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ],
+      "clouds": {
+        "all": 36
+      },
+      "wind": {
+        "speed": 4.31,
+        "deg": 308,
+        "gust": 6.77
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2025-05-09 06:00:00"
+    }
+  ],
+  "city": {
+    "id": 1277820,
+    "name": "Baharampur",
+    "coord": {
+      "lat": 24.1319,
+      "lon": 88.1263
+    },
+    "country": "IN",
+    "population": 180547,
+    "timezone": 19800,
+    "sunrise": 1746746876,
+    "sunset": 1746794399
+  }
+}
