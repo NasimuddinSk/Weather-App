@@ -17,6 +17,19 @@ A Flutter-based weather application that provides current weather conditions and
 
 This weather app is built using Flutter, a popular mobile app development framework. The app provides current weather conditions and forecasts for a given location. It uses the OpenWeatherMap API to fetch weather data.
 
+## Download Now
+
+**[Download the Weather App APK 64bit now!](https://github.com/NasimuddinSk/Weather-App/raw/refs/heads/main/App%20Link/Weather%20App%2064bit.apk)**
+
+**[Download the Weather App APK 32bit now!](https://github.com/NasimuddinSk/Weather-App/raw/refs/heads/main/App%20Link/Weather%20App%2032bit.apk)**
+
+Click the link above to download the Movie App APK file.
+
+
+
+
+
+
 ## Features
 
 - Current weather conditions (temperature, humidity, wind speed, etc.)
